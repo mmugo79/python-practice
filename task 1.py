@@ -7,4 +7,4 @@ def sum_list(numbers):
     #create a list
     my_list = [10,20,30,40,50]
 
-    print(sum_list(my_list))
+    print(sum_list)

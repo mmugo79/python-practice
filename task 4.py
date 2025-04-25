@@ -4,3 +4,5 @@ def reverse_string(text):
 
 index= length -1
 while index>=0:
+    reversed_text += text[index]
+    index -=1

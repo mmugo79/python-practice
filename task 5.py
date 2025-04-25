@@ -4,9 +4,10 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
-    #example usage
-    number = 5
-    result = factorial(number)
-    print(f"the factorial of {number} is {result}")
-    return None
+#example usage
+number = 5
+result = factorial(number)
+print(f"the factorial of {number} is {result}")
+
+
 

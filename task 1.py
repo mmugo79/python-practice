@@ -1,8 +1,8 @@
 def sum_list(numbers):
-    sum=0
+    total=0
     for x in numbers:
-        sum=sum+x
-        return sum
+        total=total+x
+        return total
 
     #create a list
     my_list = [10,20,30,40,50]

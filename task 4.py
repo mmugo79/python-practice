@@ -12,4 +12,5 @@ while index>=0:
 #example usage
 original = "zytho$n"
 reversed_result = reverse_string(original)
+print("reversed_string:", reversed_result)
 

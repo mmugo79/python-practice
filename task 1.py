@@ -3,3 +3,6 @@ def sum_list(numbers):
     for x in numbers:
         sum=sum+x
         return sum
+
+    #create a list
+    my_list = [10,20,30,40,50]
